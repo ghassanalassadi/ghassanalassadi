@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ghassanalassadi
-- 👀 I’m interested in coding, web development and artificial intelligence.
+Hi, my name is Ghassan and I am aiming to become a Full Stack Web Developer.
 
 My current tech stack is:
 - HTML
